@@ -1,0 +1,51 @@
+.post{
+    width:100%;
+    background-color:white;
+    box-sizing: border-box;
+    color:black;
+}
+.left{
+    text-align: center;
+    border-right:3px solid black;
+}
+.button1{
+    width:80px;
+    margin-top:20px;
+    margin-bottom:20px;
+    height:40px;
+    border-radius:5px;
+}
+.profilepic{
+    width:80%;
+    height:100px;
+    border-radius:100%;
+    border:1px solid black;
+}
+
+.profileInfo{
+    list-style:none;
+}
+
+.profileInfo li{
+    display:flex;
+    width:100%;
+    margin-top:10px;
+    margin-left:20px;
+}
+.profileInfo li button{
+    border-radius: 5px;
+}
+
+.timeline{
+    border-right:3px solid black;
+    text-align:center;
+}
+
+.button2{
+    width:100px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:50%;
+    height:50px;
+    border-radius:5px; 
+}

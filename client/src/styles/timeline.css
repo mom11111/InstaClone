@@ -1,0 +1,18 @@
+.postOn{
+    color:black;
+    border:1px solid black;
+    margin-top:20px;
+}
+.postImage{
+    width:80%;
+    height:200px;
+}
+.postOn ul{
+list-style:none;
+}
+.postOn ul li{
+    float:left;
+    margin-left:25px;
+    margin-top:10px;
+    height:40px;
+}

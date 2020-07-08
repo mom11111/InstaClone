@@ -1,0 +1,12 @@
+.follow{
+    height:130px;
+    width:100%;
+    border:1px solid black;
+    margin-left:50px;
+    margin-top:20px;
+    color:black;
+    text-align: center;
+}
+.button3{
+    border-radius: 5px;
+}

@@ -1,0 +1,31 @@
+.login{
+    background-color: black;
+    color:white;
+    width:30%;
+    text-align: center;
+    margin:auto;
+    box-sizing: border-box;
+    margin-top:100px;
+}
+h3{
+    padding-top:20px;
+    border-bottom:5px solid white;
+    padding-bottom:10px;
+}
+.input{
+    border-radius:5px;
+    margin-top:20px;
+    height:40px;
+    width:80%;
+    text-align: center;
+}
+.button{
+    margin-top:20px;
+    width:70px;
+    height:40px;
+    margin-bottom:20px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
