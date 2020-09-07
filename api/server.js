@@ -14,7 +14,7 @@ app.use(bodyparser.urlencoded({extended:true}));
 
 app.use(bodyparser.json());
 
-mongoose.connect('mongodb+srv://nishant:Ok123456@@cluster0-uq6hl.mongodb.net/<dbname>?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://nishant:<password>@cluster0-uq6hl.mongodb.net/<dbname>?retryWrites=true&w=majority',{
     useNewUrlParser:true,
     useUnifiedTopology:true
 },(err,res)=>{
